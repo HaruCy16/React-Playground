@@ -7,7 +7,9 @@ Welcome to my personal React learning roadmap! This repository tracks my progres
 ## 📅 Roadmap Schedule
 
 ### ✅ Week 1: React Fundamentals (June 1–7)
+
 **Topics:**
+
 - What is React?
 - Setting up with Vite
 - JSX syntax
@@ -20,7 +22,9 @@ Welcome to my personal React learning roadmap! This repository tracks my progres
 ---
 
 ### ✅ Week 2: State & Lists (June 8–14)
+
 **Topics:**
+
 - Multiple states
 - Conditional rendering
 - Lists with `.map()`
@@ -31,7 +35,9 @@ Welcome to my personal React learning roadmap! This repository tracks my progres
 ---
 
 ### ✅ Week 3: useEffect & Routing (June 15–21)
+
 **Topics:**
+
 - `useEffect()` for side effects
 - React Router basics
 - `Link`, `Routes`, and multi-page structure
@@ -42,13 +48,16 @@ Welcome to my personal React learning roadmap! This repository tracks my progres
 ---
 
 ### ✅ Week 4: Final Project & Tailwind Integration (June 22–30)
+
 **Topics:**
+
 - Tailwind CSS + React setup
 - Component reusability
 - File structure & cleanup
 - Deployment via Netlify or Vercel
 
 **Final Project Ideas:**
+
 - React Portfolio Site
 - Mini Blog App
 - Movie Explorer using API
@@ -56,6 +65,7 @@ Welcome to my personal React learning roadmap! This repository tracks my progres
 ---
 
 ## 🎯 Goals
+
 - Understand how React components and state management work
 - Build and deploy 1–2 complete React projects
 - Prepare for freelance or client work using React + Tailwind
@@ -63,6 +73,7 @@ Welcome to my personal React learning roadmap! This repository tracks my progres
 ---
 
 ## 🔗 Resources
+
 - [React Official Docs](https://react.dev/)
 - [Vite + React Guide](https://vitejs.dev/guide/)
 - [Tailwind CSS](https://tailwindcss.com/)
@@ -72,5 +83,10 @@ Welcome to my personal React learning roadmap! This repository tracks my progres
 ---
 
 ## 💻 Author
+
 **Name:** Cy
 **Portfolio:**(https://cy-wilson-web-portfolio.vercel.app/)
+
+---
+
+<h2 align = "center">REACT JS ARC</h2>
