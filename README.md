@@ -1,4 +1,4 @@
-# ⚛️ React Learning Roadmap – June 2025
+# ⚛️ React Learning Roadmap – Cy Programming
 
 Welcome to my personal React learning roadmap! This repository tracks my progress as I learn React throughout June 2025. My goal is to master the React fundamentals, complete a few practical projects, and build a solid front-end developer foundation.
 
@@ -6,8 +6,7 @@ Welcome to my personal React learning roadmap! This repository tracks my progres
 
 ## 📅 Roadmap Schedule
 
-### ✅ Week 1: React Fundamentals (June 1–7)
-
+### ✅ Week 1: React Fundamentals
 **Topics:**
 
 - What is React?
@@ -21,7 +20,7 @@ Welcome to my personal React learning roadmap! This repository tracks my progres
 
 ---
 
-### ✅ Week 2: State & Lists (June 8–14)
+### ✅ Week 2: State & Lists
 
 **Topics:**
 
@@ -34,7 +33,7 @@ Welcome to my personal React learning roadmap! This repository tracks my progres
 
 ---
 
-### ✅ Week 3: useEffect & Routing (June 15–21)
+### ✅ Week 3: useEffect & Routing
 
 **Topics:**
 
@@ -47,7 +46,7 @@ Welcome to my personal React learning roadmap! This repository tracks my progres
 
 ---
 
-### ✅ Week 4: Final Project & Tailwind Integration (June 22–30)
+### ✅ Week 4: Final Project & Tailwind Integration
 
 **Topics:**
 
